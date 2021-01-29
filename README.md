@@ -1,7 +1,7 @@
 # Employee-Directory
 
 ## Description
-The Employee Directory is an app that allows users the ablility to view their entir employee directory at so once so that they have quick access to their information. Employee data can be sorted and filtered by last name and state.
+The Employee Directory is an app that allows users the ablility to view their entire employee directory at so once so that they have quick access to their information. Employee data can be sorted and filtered by last name and state.
 ## Table of Contents
 [Installation](#Installation)
 <br>
